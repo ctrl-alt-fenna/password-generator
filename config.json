@@ -1,0 +1,8 @@
+{
+  "password_length": 14,
+  "use_uppercase": true,
+  "use_digits": true,
+  "use_special_chars": true,
+  "special_chars": "!@#$%^&*()_+-=[]{}|;:,.<>?",
+  "generate_count": 5
+}
